@@ -10,3 +10,7 @@ Exercice 1 :
 
 Exercice 2 :
 2) Dans un clé nom protégé, il y a marqué "-----BEGIN PRIVATE KEY-----" tandis que sur la clé protégé "-----BEGIN ENCRYPTED PRIVATE KEY-----"
+
+Excercice 3 :
+1) MD5	32 caractères	128 bits
+   SHA-1	40 caractères	160 bits
